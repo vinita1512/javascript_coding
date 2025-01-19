@@ -1,5 +1,5 @@
 // Write a JavaScript program to find the maximum number in an array.
-
+  
 // using built-in method
 function findMaxNumber(arr) {
   if (!Array.isArray(arr) || arr.length === 0) {
